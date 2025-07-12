@@ -1,5 +1,5 @@
 Reconciliation service that identifies unmatched and discrepant transactions between internal data
-(system transactions) and external data (bank statements) for Amartha.
+(system transactions) and external data (bank statements)
 
 ### Problem Statement:
 This Service manages multiple bank accounts and requires a service to reconcile transactions occurring within their system against corresponding transactions reflected in bank statements. This process helps identify errors, discrepancies, and missing transactions.
