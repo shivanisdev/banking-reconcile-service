@@ -1,4 +1,4 @@
-Design and implement a transaction reconciliation service that identifies unmatched and discrepant transactions between internal data
+Reconciliation service that identifies unmatched and discrepant transactions between internal data
 (system transactions) and external data (bank statements) for Amartha.
 
 ### Problem Statement:
